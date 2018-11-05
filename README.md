@@ -5,7 +5,7 @@ object to CSS string
 console.log('%cHello World', style({ backgroundColor: 'red', color: 'white' }));
 ```
 
-output:
+sample output:
 ```css
 background-color:red;color:white;
 ```
